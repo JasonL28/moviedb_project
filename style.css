@@ -191,3 +191,13 @@ button:hover {
     border-left: 4px solid green;
     margin: 10px 0;
 }
+
+.field-error {
+    color: red !important;
+    font-size: 0.85em;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: #ffeeee !important;
+    padding: 8px;
+    border-left: 4px solid red;
+}
